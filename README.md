@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
-  - [Aws-Portfolio-Capstone](https://github.com/A-Fonin/)
+  - [Aws-Portfolio-Capstone](https://github.com/A-Fonin/AWS-Portfolio-Website.git/)
 
 <h2>- Certifications</h2>
 
