@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
   - [2048-game-ci-cd](https://github.com/A-Fonin/2048-game-ci-cd.git/)
+  - [Stock Market Real-Time Data Analytics Pipeline](https://github.com/A-Fonin/aws-stock-market-analytics.git)
   - [Aws-Portfolio-Capstone](https://github.com/A-Fonin/AWS-Portfolio-Website.git/)
 
 <h2>- Certifications</h2>
